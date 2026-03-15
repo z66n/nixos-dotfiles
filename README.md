@@ -9,7 +9,7 @@ This repository contains my system configuration (`configuration.nix`), user con
 2. Clone this repository:
 
 ```bash
-git clone https://github.com/z66n/nixos.git ~/dotfiles
+git clone https://github.com/z66n/nixos-dotfiles.git ~/dotfiles
 ```
 
 3. Rebuild the system using the flake:
